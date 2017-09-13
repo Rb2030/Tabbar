@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.63.10 clang-900.0.36)"
+options: "b94848da6686e5f10d800814028ab53b"
+build_time: [1505294741, 338135000]
+inputs:
+  "/Users/Ross/Desktop/Swift_Work/Tabbar App example/Tabbar App example/ViewController.swift": [1505291889, 0]
+  "/Users/Ross/Desktop/Swift_Work/Tabbar App example/Tabbar App example/AppDelegate.swift": [1505291889, 0]
